@@ -8,7 +8,8 @@
 	background: url(/img/pexels-pavel-danilyuk-5496464.jpg);
 	background-repeat: no-repeat;
 	background-position: center center;
-	background-size: cover;
+	background-size: 100%;
+	background-attachment: fixed;
 	height: 36rem;
 	width: 100%;
 }
